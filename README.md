@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I’m Manikandan! 👋
 
-<!--
-**Manikandan-official/Manikandan-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about solving real-life problems and love participating in hackathons. My main project focus areas are **blockchain**, **space**, and **technology innovation**.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build projects focusing on blockchain, space, and emerging tech
+- Compete in and contribute to hackathons and coding challenges
+- Share my work and connect with professionals on [LinkedIn](https://www.linkedin.com/in/manikandanofficialworkspace/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- JavaScript, HTML, CSS, Bootstrap
+- React
+- Java
+
+## 🎉 Fun & Beyond
+- Soccer enthusiast ⚽️
+- Involved in various fun activities and extracurriculars
+
+---
+
+Let’s connect and create something amazing!
